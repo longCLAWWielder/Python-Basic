@@ -1,2 +1,2 @@
 # Python-Basic 
-Basic codes of python fpor beginners
+Basic codes of python for beginners
